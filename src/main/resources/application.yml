@@ -1,0 +1,8 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /home
+      settings:
+        trace: false
+        web-allow-others: false
